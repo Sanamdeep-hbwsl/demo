@@ -1,4 +1,4 @@
 # demo
 my first repo
 <br>
-Sanamdeep
+Sanamdeep Singh
